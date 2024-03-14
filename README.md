@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm from Hamburg with a passion for humans, food, and software engineering.</h3>
 
-- 🌱 I’m currently attending **Java Development Bootcamp at neuefische Hamburg.**
+- 🌱 I’m currently finished **Java Development Bootcamp at neuefische Hamburg.**
 
 - 👨‍💻 Bootcamp Tech Stack: **Backend | Java | JavaScript | HTML | CSS | OOP | Docker | MongoDB | Mobile | Git | Spring Boot | React | Scrum | Kanban | Agile Methoden | Pair Programming**
 
