@@ -9,7 +9,7 @@
 ```yaml
 name: Sascha Horn
 located_in: Hamburg, Germany
-current_job: Junior Java Developer
+current_job: Java Developer
 education:
   [
     "Java Full Stack Developer Bootcamp"
@@ -17,7 +17,7 @@ education:
   ]
 company:
 [
-    "Monday Consulting"
+    "Monday Consulting GmbH"
 ]
 
 fields_of_interests:
@@ -33,7 +33,7 @@ background:
      skills, and a proven ability to solve problems."
   ]
   
-currently_learning: ["Docker, Spring Boot"]
+currently_learning: ["Docker, Spring Boot, CoreMedia"]
 hobbies: ["Cooking", "Humans", "Design", "Art", "Vanlife"]
 ```
 
